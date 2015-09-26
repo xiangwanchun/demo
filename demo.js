@@ -1,0 +1,3 @@
+function aaa (argument) {
+	// body...
+}
