@@ -1,3 +1,3 @@
-function aaa (argument) {
+function deme (argument) {
 	// body...
 }
